@@ -1,0 +1,3 @@
+wget --no-check-certificate --cookies=on --save-cookies cookies.txt --keep-session-cookies --post-data "email=mpeck0909%40gmail.com&password=jnp166" https://hipe.historicimages.com/main/login
+
+wget --no-check-certificate --load-cookies cookies.txt -i "G:\My Drive\Historic Images\workurls.txt" --directory-prefix="G:\My Drive\Historic Images\a"
